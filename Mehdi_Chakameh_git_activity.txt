@@ -1,0 +1,25 @@
+* 6240557 (HEAD -> feature/project-structure) Add project directory structure
+*   bfb66be (main) Resolve merge conflict in README.md
+|\  
+| * 422a560 (origin/main, origin/HEAD) Update README.md
+| * d95767f Update README.md
+* | 7c4fcab Update README for Week 2 assignment
+|/  
+* cc3b607 Initial commit
+
+===== REPOSITORY STRUCTURE =====
+
+.
+./Mehdi_Chakameh_git_activity.txt
+./tests
+./tests/__init__.py
+./docs
+./docs/README.md
+./README.md
+./.gitignore
+./data
+./data/.gitkeep
+./notebooks
+./notebooks/example.ipynb
+./src
+./src/__init__.py
